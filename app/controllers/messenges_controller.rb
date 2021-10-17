@@ -1,0 +1,2 @@
+class MessengesController < ApplicationController
+end
